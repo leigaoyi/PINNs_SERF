@@ -4,7 +4,8 @@ CSVPath: './result/TrainDualResult.csv'
 LightIntensity: 25
 Temperature: 170
 
-NetDepth: 4
-NetWidth: 50
+NetDepth: 6
+NetWidth: 40
  
 TrainEpoch : 15000
+
