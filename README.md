@@ -1,1 +1,1 @@
-# PINNs_SERF
+# PINNs_Spin_polarization
